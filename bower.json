@@ -1,0 +1,15 @@
+{
+  "name": "materialtutor",
+  "description": "Tutorial for material layout",
+  "main": "index.js",
+  "license": "ISC",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular-material": "^1.0.5",
+    "angular-route": "^1.5.0"
+  }
+}
